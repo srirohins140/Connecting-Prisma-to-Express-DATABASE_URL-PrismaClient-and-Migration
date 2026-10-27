@@ -1,3 +1,0 @@
-This folder is intentionally empty in the starter.
-Running `npx prisma init` and `npx prisma migrate dev` will fill it with
-schema.prisma, your migrations/, and (you add) client.js.
